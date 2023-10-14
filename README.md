@@ -1,4 +1,4 @@
 # clg-demo
 My 1st Repo
 <br>
-Author : Ruhi Mahaseth
+Author : Ruhi Mahaseth ( life)
